@@ -6,9 +6,9 @@ if ($(window).width() < 541) {
         burger.classList.toggle('burger--active');
         headerMenu.classList.toggle('header__menu--active');
         if (burger.classList.contains('burger--active')) {
-            $("#burger__img").attr("src","../images/burger-close.png");
+            $("#burger__img").attr("src","images/burger-close.png");
         } else if (!burger.classList.contains('burger--active')){
-            $("#burger__img").attr("src","../images/burger-btn.png");
+            $("#burger__img").attr("src","images/burger-btn.png");
         }
     })
 }
