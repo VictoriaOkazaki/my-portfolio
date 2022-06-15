@@ -84,6 +84,9 @@ ruButton.addEventListener('click', () => {
     $('.about-job__item-2')[0].innerHTML = "Постоении макетов на Tilda с использованием зеро-блоков";
     $('.about-job__item-3')[0].innerHTML = "адаптации сайтов под различные устройства (мобильные в первую очередь)";
     $('.about-job__item-4')[0].innerHTML = "организации CMS систем на Wordpress и баз данных";
+    $('.about-job__item-5')[0].innerHTML = "построении сайта с использованием тем Wordpress и шаблонов Elementor";
+    $('.about-job__item-6')[0].innerHTML = "переносе сайта на хостинг, подключении домена";
+    $('.about-job__item-7')[0].innerHTML = "доработке сайтов и решении различных проблем";
 
     $('.works__title')[0].innerHTML = "Работы";
 
